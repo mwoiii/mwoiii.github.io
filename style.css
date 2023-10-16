@@ -1,0 +1,48 @@
+body {
+	background-color: #262626;
+	font-family: "Verdana";
+}
+
+* {
+	text-align: center;
+}
+
+h1 {
+	color: white;
+	padding: 10px;
+	font-family: "Verdana";	
+	text-decoration: underline;
+}
+
+h2{
+	color: white;
+	font-family: "Verdana";
+}
+
+p{
+	color: white;
+	font-family: "Verdana";
+}
+
+li{
+	color: #d9d9d9;
+	text-align: left;
+	font-family: "Verdana";
+}
+
+a:link {
+	color: #00ffea;
+	font-family: "Verdana";
+}
+
+a:visited {
+	color: #ff00ff;
+	font-family: "Verdana";
+}
+
+div.container {
+	display: inline-block;
+    text-align: left;
+}
+
+ul.styleUL {
